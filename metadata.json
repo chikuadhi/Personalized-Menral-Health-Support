@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Mental Health Support",
+  "description": "An end-to-end full-stack AI-powered mental health intervention and support system, featuring local machine learning classifiers, text NLP sentiment engines, and an agentic therapeutic counselor powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
